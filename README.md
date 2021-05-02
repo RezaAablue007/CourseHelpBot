@@ -1,5 +1,5 @@
 ## CourseHelpBot
-This Discord bot was designed by a team of 4 for the 2021 RU Hacks competition. This project is submitted for the Discord Bot and Education hack categories.
+This Discord bot was designed by a team of 4 for the 2021 RU Hacks competition. This project is submitted for the Discord Bot and Education hack categories. A link to the presentation for the demo can be found here: https://docs.google.com/presentation/d/1gcrZemlKpEnTEJ4ituXrspCLpw05cnRrSbdIIthdDH4/edit?usp=sharing
 
 ## Inspiration
 At the opening ceremony of RU Hacks, we were instantly hooked by the Discord bot category and decided to create a Discord bot that intends to solve a problem. Initially, we looked at creating something similar to Soccerguru, a bot that allows users to access different information regarding the sport of soccer.  We decided to create CourseHelpBot to help students be able to better prepare for final exams and achieve their desired final grade. 
